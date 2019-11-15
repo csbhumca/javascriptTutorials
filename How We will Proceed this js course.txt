@@ -1,26 +1,74 @@
 1. Beginner 
-[basic concept, 
-funtion, 
-var, 
-if-else, 
-for-loop,
-foreach-loop, 
-while-loop, 
-map, 
-object, 
-object-iteration, 
-array-of object]
+[basic concept, ---done
+funtion, ---done
+var, ---done
+if-else, ---done
+for-loop,---done
+foreach-loop, ---done
+while-loop, ---todo
+object, ---done
+object-iteration, ---done 
+array-of object, ---done
+rest operator
+spread operator,
+module pattern,
+prototype,
+constructor
+instanceOf,
+hasOwnProperty, ---done 
+indexOf, -- done
+typeOf, --done
+undefined, NaN, ReferenceError, TypeError,
+parseInt, parseFloat,
+delete operator, --- done
+string operations [
+                    include, 
+                    indexOf, 
+                    replace, 
+                    substr, 
+                    trim, 
+                    toLower, 
+                    toUpper, 
+                    concat]
+array operations [
+                    push, 
+                    pop, 
+                    join, 
+                    reduce, 
+                    filter, 
+                    find, 
+                    sort, 
+                    shift,
+                    unshift, 
+                    slice]
+]
 
 
 2. Advance
 [Async, Importance ====> Important {Asynchronous behaviour of javascript, threads[Interanlly]}
-Clousre,
-Hoisting,
-Promises,
+Clousre, Important and IIFE for var scoping
+Hoisting, Important
+Promises, Important
+currying ,
 Ajax or http/calls
 IIFE,
 Map,
+Weak map,
+iterator, Important
+generator, Important
+yeild,    Important
+try-catch, Important
+set,
+weak set,
+call, apply, bind,  Important
+eval 
 ]
 
+
+3. es6, es7 concepts:[
+    classes,
+    constructor,
+    static
+]
 
 
