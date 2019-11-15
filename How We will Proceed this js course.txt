@@ -1,0 +1,26 @@
+1. Beginner 
+[basic concept, 
+funtion, 
+var, 
+if-else, 
+for-loop,
+foreach-loop, 
+while-loop, 
+map, 
+object, 
+object-iteration, 
+array-of object]
+
+
+2. Advance
+[Async, Importance ====> Important {Asynchronous behaviour of javascript, threads[Interanlly]}
+Clousre,
+Hoisting,
+Promises,
+Ajax or http/calls
+IIFE,
+Map,
+]
+
+
+
